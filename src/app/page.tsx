@@ -3,6 +3,7 @@ import products from '@lib/products.json'
 import Image from 'next/image'
 import Menu_Section from '@components/Menu_Section'
 import Delivery from '@components/Delivery'
+import Story from '@components/Story'
 
 export default function Home() {
   return (
@@ -31,6 +32,7 @@ export default function Home() {
           />
         </div>
       </section>
+      <Story />
       <Menu_Section sectionName='COMBOS' products={products.combos} />
       <Menu_Section sectionName='SMASH BURGERS' products={products.burgers} />
       <Menu_Section sectionName='SIDES' products={products.sides} />
