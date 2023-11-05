@@ -1,0 +1,101 @@
+{
+    "combos": [
+        {
+            "name": "Combo Super Smash Burger Doble",
+            "description": "Combo Smash Burger Doble con Queso y Bacon + Patatas Fritas + Bebida.",
+            "price": 17.80,
+            "img": "/assets/products/combo_individual.jpeg"
+        },
+        {
+            "name": "Combo Individual",
+            "description": "Escoge tu burger + 1 side + 1 bebida. Puedes mejorar tu burger.",
+            "price": 16.80,
+            "img": "/assets/products/combo_individual.jpeg"
+        },
+        {
+            "name": "Combo Safri Dúo",
+            "description": "Escoge 2 burgers + 1 side + 2 bebidas + 1 postre.",
+            "price": 31.80,
+            "img": "/assets/products/combo_safri_duo.jpeg"
+        }
+    ],
+    "burgers": [
+        {
+            "name": "Super Smash Burger",
+            "description": "En los 90 la gente era creativa para divertirse: lleva tu Burger al límite. La base es pan brioche, 100% ternera con vaca madurada, mix de queso cheddar y emmental y bacon. ¡Empieza a crear!",
+            "price": 10.88,
+            "img": "/assets/products/super_smash_burger.jpeg"
+        },
+        {
+            "name": "Old Skool",
+            "description": "Un back to basics. Prueba la esencia de real como en sus origenes: es perfecta y sin complicaciones. En pan de molde, ternera con vaca madurada, mix de quesos cheddar y emmental y bacon.",
+            "price": 11.88,
+            "img": "/assets/products/old_skool.jpeg"
+        },
+        {
+            "name": "Santana",
+            "description": "Inspirada en el rockero mexicano que dominó el mundo, te dejará sin palabras: Ternera madurada, mix de queso cheddar y emmental, jalapeños encurtidos, bacon, cebolla salteada, tortilla crocante y salsa super smash.",
+            "price": 10.88,
+            "img": "/assets/products/santana.jpeg"
+        },
+        {
+            "name": "La Madonna",
+            "description": "Única, poderosa, imponente e irreverente. De pollo crujiente en pan brioche, coleslaw casera, queso gouda y bacon.",
+            "price": 10.88,
+            "img": "/assets/products/madonna.jpeg"
+        },
+        {
+            "name": "Pearl Jam",
+            "description": "La verdadera perla de SSB es esta mermelada de tomate. Ternera de vaca madurada, queso gouda, mermelada de tomate, cebolla salteada, mezclum y una mayonesa de tapenade.",
+            "price": 10.88,
+            "img": "/assets/products/pearl_jam.jpeg"
+        },
+        {
+            "name": "Paul McCartney (Veggie)",
+            "description": "Paul era vegano antes que todos nosotros. ¿Lo sabías? Nos dijo que esta sería su favorita y que la quería en la carta sí o sí. No-meat pulled, coleslaw casera, cebolla caramelizada y mix de queso cheddar y emmental.",
+            "price": 12.35,
+            "img": "/assets/products/pual_mcartney.jpeg"
+        }
+    ],
+    "sides": [
+        {
+            "name": "Chicken Rangers",
+            "description": "Tiras de pollo extra crispy. Las tiras no van bañadas en salsa.",
+            "price": 12.88,
+            "img": "/assets/products/chicken_rangers.jpeg"
+        },
+        {
+            "name": "Fried Chicken & SSB Fries",
+            "description": "Tiras de pollo extra crispy, acompañado de patatas fritas y una salsa a elegir.",
+            "price": 12.88,
+            "img": "/assets/products/fried_chicken_fries.jpg"
+        },
+        {
+            "name": "SSB Fries",
+            "description": "Patatas fritas crujientes por fuera y cremosas por dentro.",
+            "price": 3.35,
+            "img": "/assets/products/smb_fries.jpeg"
+        },
+        {
+            "name": "Mac&Cheese Balls",
+            "description": "Mac&Cheese Balls.",
+            "price": 2.88,
+            "img": "/assets/products/mac_cheese.jpeg"
+        },
+        {
+            "name": "Tequeños",
+            "description": "Tequeños rellenos de queso.",
+            "price": 2.88,
+            "img": "/assets/products/tequenos.jpeg"
+        }
+    ],
+    "sweetSides": [
+        {
+            "name": "Brookie",
+            "description": "Brownie & Cookie en un solo producto. Trozo de brownie extra suave con una capa de nuestra masa de cookie. Sin nueces.",
+            "price": 4.53,
+            "img": "/assets/products/brookie.jpg"
+        }
+    ],
+    "drinks": []
+}
